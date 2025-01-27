@@ -1,7 +1,6 @@
 # Image Search
 A local image search engine using Ollama, LangChain, and Streamlit. This image search engine can search images using text queries or perform reverse image searches by uploading an image to find similar results.
 
-You can watch the video on how it was built on my [YouTube](https://youtu.be/S9ugRzGjFtA).
 
 # Pre-requisites
 Install Ollama on your local machine from the [official website](https://ollama.com/). And then pull the Llava model:
